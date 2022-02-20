@@ -1,2 +1,1 @@
-# data-sets
-data structures
+<h1>The blueprint of outstageed's data</h1>
